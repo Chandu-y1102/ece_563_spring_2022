@@ -28,5 +28,7 @@ Cycle-accurate Simulator of 5-Stage MIPS like pipelines processorCycle-accurate 
 Design and implementation of a C++ cycle-accurate simulator of a dynamically scheduled processor implementing the Tomasulo algorithm with Reorder Buffer.Design and implementation of a C++ cycle-accurate simulator of a dynamically scheduled processor implementing the Tomasulo algorithm with Reorder Buffer.
 
 -Created the simulator for implementation of the Tomasulo algorithm and analysis of the algorithm
--Implemented load bypassing and store bypassing in the design to optimize clock cycles
+
+-Implemented load bypassing and store bypassing in the design to optimize clock cycle
+
 -Used cyclic buffer to implement the reorder buffer
