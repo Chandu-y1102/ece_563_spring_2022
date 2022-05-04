@@ -1,12 +1,10 @@
 # ece_563_spring_2022
-Projects done for the course ece 563
+Projects  for ECE 563:Microprocessor Architecture
 
 Associated with North Carolina State UniversityAssociated with North Carolina State University
 
 
-
-
-Design and Implementation of a Level-1 Cache SimulatorDesign and Implementation of a Level-1 Cache Simulator
+#Design and Implementation of a Level-1 Cache SimulatorDesign and Implementation of a Level-1 Cache Simulator
 
 - Designed and implemented an L-1 cache simulator.
 - The simulated cache used the LRU replacement policy.
@@ -17,7 +15,7 @@ Design and Implementation of a Level-1 Cache SimulatorDesign and Implementation 
 
 
 
-Cycle-accurate Simulator of 5-Stage MIPS like pipelines processorCycle-accurate Simulator of 5-Stage MIPS like pipelines processor
+#Cycle-accurate Simulator of 5-Stage MIPS like pipelines processorCycle-accurate Simulator of 5-Stage MIPS like pipelines processor
 
 - Designed and implemented a C++ cycle-accurate simulator of a 5-stage MIPS-like pipelined processor.
 - The simulator included handling of data, control and structural hazards.
@@ -25,10 +23,8 @@ Cycle-accurate Simulator of 5-Stage MIPS like pipelines processorCycle-accurate 
 
 
 
-Design and implementation of a C++ cycle-accurate simulator of a dynamically scheduled processor implementing the Tomasulo algorithm with Reorder Buffer.Design and implementation of a C++ cycle-accurate simulator of a dynamically scheduled processor implementing the Tomasulo algorithm with Reorder Buffer.
+#Design and implementation of a C++ cycle-accurate simulator of a dynamically scheduled processor implementing the Tomasulo algorithm with Reorder Buffer.Design and implementation of a C++ cycle-accurate simulator of a dynamically scheduled processor implementing the Tomasulo algorithm with Reorder Buffer.
 
--Created the simulator for implementation of the Tomasulo algorithm and analysis of the algorithm
-
--Implemented load bypassing and store bypassing in the design to optimize clock cycle
-
--Used cyclic buffer to implement the reorder buffer
+- Created the simulator for implementation of the Tomasulo algorithm and analysis of the algorithm
+- Implemented load bypassing and store bypassing in the design to optimize clock cycle
+- Used cyclic buffer to implement the reorder buffer
